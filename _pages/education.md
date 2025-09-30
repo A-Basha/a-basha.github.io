@@ -58,6 +58,10 @@ author_profile: true
   color: var(--meta-color);
   font-size: 0.95em;
 }
+
+.edu-details {
+    max-width: 70%;
+}
 </style>
 
 
@@ -84,9 +88,14 @@ author_profile: true
         <div class="edu-univ">
         {% if ed.institution_url %}
             <a href="{{ ed.institution_url }}" target="_blank" rel="noopener noreferrer">{{ ed.institution }}</a>
+            <div class="edu-loca">{{ ed.location }}</div>
         {% else %}
             {{ ed.institution }}
         {% endif %}
+        </div>
+
+        <div class="meta-text">
+         {{ ed.start }} – {{ ed.end }}
         </div>
 
         {% if ed.thesis or ed.grade %}
@@ -97,10 +106,6 @@ author_profile: true
         {% endif %}
     </div>
 
-    <div class="meta-text">
-        {{ ed.location }}<br>
-        {{ ed.start }} – {{ ed.end }}
-    </div>
 
     </div>
 {% endfor %}
