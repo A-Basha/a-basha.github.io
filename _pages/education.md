@@ -15,7 +15,7 @@ author_profile: true
   width: 120px;
   /* height: 50px; */
   object-fit: contain;
-  transition: transform 0.2s;
+  /* transition: transform 0.2s; */
 }
 
 .logo-wrapper {
@@ -64,9 +64,6 @@ author_profile: true
   font-size: 0.95em;
 }
 
-.edu-details {
-    max-width: 70%;
-}
 </style>
 
 
