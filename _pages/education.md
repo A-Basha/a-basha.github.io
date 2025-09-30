@@ -34,7 +34,7 @@ author_profile: true
 }
 
 .edu-details {
-  max-width: 70%;
+  max-width: 75%;
 }
 
 .edu-degree {
