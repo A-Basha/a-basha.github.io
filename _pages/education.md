@@ -2,6 +2,7 @@
 layout: page
 title: Education
 permalink: /education/
+author_profile: true
 ---
 
 <div class="education-list">
