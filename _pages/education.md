@@ -7,48 +7,45 @@ author_profile: true
 
 <div class="education-list">
 
-  {% for ed in site.data.education %}
-  <div class="edu-card" style="display:flex; gap:1rem; align-items:flex-start; padding:1rem; border:1px solid #eee; border-radius:8px; margin-bottom:1rem;">
-    
-    {% if ed.badge %}
-    <div class="edu-badge" style="flex:0 0 auto;">
-      <img src="{{ ed.badge }}" alt="{{ ed.institution }} badge" style="width:64px; height:64px; object-fit:contain; border:1px solid #e5e5e5; border-radius:8px; padding:6px; background:#fff;">
-    </div>
-    {% endif %}
+<style> .edu-entry { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5em; flex-wrap: wrap; } .edu-details { max-width: 70%; } .edu-degree { font-weight : bold; font-size : 1.1em; } .edu-univ { margin-top: 0.2em; font-style: italic; } .edu-thesis { margin-top: 0.3em; font-size: 0.97em; }</style>
 
-    <div class="edu-main" style="flex:1 1 auto;">
-      <h3 style="margin:0 0 .25rem 0;">
+{% for ed in site.data.education %}
+    <div class="edu-entry">
+
+    <div class="logo-wrapper">
+        <img class="edu-logo" src="{{ ed.logo }}" alt="{{ ed.institution }} Logo">
+    </div>
+
+    <div class="edu-details">
+        <div class="edu-degree">
         {{ ed.degree }}
         {% if ed.diploma_url %}
-        <span style="font-weight:normal;">
-          [<a href="{{ ed.diploma_url }}">{{ ed.diploma_label | default: "Diploma" }}</a>]
-        </span>
+            <a href="{{ ed.diploma_url }}" target="_blank" rel="noopener noreferrer">[{{ ed.diploma_label }}]</a>
         {% endif %}
-      </h3>
+        </div>
 
-      <p style="margin:.2rem 0 .6rem 0;">
-        {% if ed.program_url %}
-          <a href="{{ ed.program_url }}">{{ ed.institution }}</a>
+        <div class="edu-univ">
+        {% if ed.institution_url %}
+            <a href="{{ ed.institution_url }}" target="_blank" rel="noopener noreferrer">{{ ed.institution }}</a>
         {% else %}
-          {{ ed.institution }}
+            {{ ed.institution }}
         {% endif %}
-      </p>
+        </div>
 
-      {% if ed.thesis or ed.grade %}
-      <p style="margin:0;">
-        {% if ed.thesis %}<strong>Thesis:</strong> “{{ ed.thesis }}”{% endif %}
-        {% if ed.thesis and ed.grade %} — {% endif %}
-        {% if ed.grade %}<strong>Grade:</strong> {{ ed.grade }}{% endif %}
-      </p>
-      {% endif %}
+        {% if ed.thesis or ed.grade %}
+        <div class="edu-thesis">
+        {% if ed.thesis %}Thesis: "{{ ed.thesis }}"{% endif %}
+        {% if ed.grade %} – Grade: {{ ed.grade }}{% endif %}
+        </div>
+        {% endif %}
     </div>
 
-    <div class="edu-side" style="flex:0 0 auto; text-align:right; color:#777;">
-      {% if ed.location %}<div>{{ ed.location }}</div>{% endif %}
-      {% if ed.start or ed.end %}<div>{{ ed.start }}{% if ed.end %} – {{ ed.end }}{% endif %}</div>{% endif %}
+    <div class="meta-text">
+        {{ ed.location }}<br>
+        {{ ed.start }} – {{ ed.end }}
     </div>
 
-  </div>
-  {% endfor %}
+    </div>
+{% endfor %}
 
 </div>
