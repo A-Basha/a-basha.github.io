@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Education
 permalink: /education/
 author_profile: true
@@ -9,6 +9,7 @@ author_profile: true
 
 <style> .edu-entry { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5em; flex-wrap: wrap; } .edu-details { max-width: 70%; } .edu-degree { font-weight : bold; font-size : 1.1em; } .edu-univ { margin-top: 0.2em; font-style: italic; } .edu-thesis { margin-top: 0.3em; font-size: 0.97em; }</style>
 
+{% include base_path %}
 {% for ed in site.data.education %}
     <div class="edu-entry">
 
