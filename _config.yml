@@ -27,10 +27,11 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Data engineer with a strong interest in machine learning and artificial intelligence, particularly in the areas of anomaly detection and affective computing"
   location         : "Hamburg, Germany"
-  employer :       "[Baker Hughes](https://www.bakerhughes.com)"
-  uri              : https://a-basha.github.io/alibasha.github.io/
+  employer         : "Baker Hughes"
+  employer_url     : "https://www.bakerhughes.com"
+  uri              : "https://a-basha.github.io/alibasha.github.io/"
   email            : "ali.elm.basha@gmail.com" 
-  academic_email: "your.name@uni.edu"
+  academic_email   : "ali.basha@tuhh.de"
 
   # Academic websites
   academia         : # URL
