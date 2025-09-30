@@ -13,7 +13,7 @@ author_profile: true
     <div class="edu-entry">
 
     <div class="logo-wrapper">
-        <img class="edu-logo" src="{{ ed.logo }}" alt="{{ ed.institution }} Logo">
+        <img class="edu-logo" src="{{ ed.logo | prepend: "/images/" | prepend: base_path }}" alt="{{ ed.institution }} Logo">
     </div>
 
     <div class="edu-details">

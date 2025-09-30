@@ -9,7 +9,7 @@
   end: "Nov 2020"
   thesis: "Medical Images Classification Based on Deep Features Extraction Exploiting Transfer Learning"
   grade: "17.50/20 (Très Bien)"
-  logo: "/assets/images/logos/TUHH_logo-wortmarke_de_rgb.png"
+  logo: "TUHH_logo-wortmarke_de_rgb.png"
 
 - degree: "Bachelor's Biomedical Engineering"
   diploma_label: "Diploma"
@@ -21,4 +21,4 @@
   end: "Jun 2017"
   thesis: "Patient Record Management System (PRMS) for Cardiac Surgery Department"
   grade: "15/20 (Bien)"
-  logo: "/assets/images/logos/alex_uni.png"
+  logo: "alex_uni.png"
