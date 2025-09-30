@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "./images/A_Basha_photo.jpg"
   name             : "Ali Basha"
   pronouns         : # example: "she/her"  
   bio              : "Data engineer with a strong interest in machine learning and artificial intelligence, particularly in the areas of anomaly detection and affective computing"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  location         : "Hamburg, Germany"
+  employer         : "Baker Hughes"
+  uri              : "https://www.bakerhughes.com/"
   email            : "none@example.org" 
 
   # Academic websites
