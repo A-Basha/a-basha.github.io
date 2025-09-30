@@ -8,7 +8,7 @@
   start: "Sep 2017"
   end: "Nov 2020"
   thesis: "Novel Multi-Stage Machine Learning Model in Conjunction with Statistical Process Control Data for Anomaly Detection."
-  grade: "17.50/20 (Très Bien)"
+  # grade: "17.50/20 (Très Bien)"
   logo: "TUHH_logo-wortmarke_de_rgb.png"
 
 - degree: "Bachelor's Computer Science"
@@ -20,5 +20,5 @@
   start: "Sep 2014"
   end: "Jun 2017"
   thesis: "Licence plate recognition system using machine learning"
-  grade: "15/20 (Bien)"
+  # grade: "15/20 (Bien)"
   logo: "alex_uni.png"
