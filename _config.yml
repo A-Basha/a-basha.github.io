@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ali Basha"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Data engineer with a strong interest in machine learning and artificial intelligence, particularly in the areas of anomaly detection and affective computing"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
