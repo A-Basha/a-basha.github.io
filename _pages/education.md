@@ -45,6 +45,11 @@ author_profile: true
 .edu-univ {
   margin-top: 0.2em;
   font-style: italic;
+    display: flex;
+}
+
+.edu-univ div{
+    font-style: normal;
 }
 
 .edu-thesis {
@@ -53,7 +58,7 @@ author_profile: true
 }
 
 .meta-text {
-  text-align: right;
+  /* text-align: right; */
   min-width: 170px;
   color: var(--meta-color);
   font-size: 0.95em;
@@ -88,7 +93,7 @@ author_profile: true
         <div class="edu-univ">
         {% if ed.institution_url %}
             <a href="{{ ed.institution_url }}" target="_blank" rel="noopener noreferrer">{{ ed.institution }}</a>
-            <div class="edu-loca">{{ ed.location }}</div>
+            <div class="edu-loca">&nbsp; – {{ ed.location }}</div>
         {% else %}
             {{ ed.institution }}
         {% endif %}
