@@ -12,15 +12,15 @@ author_profile: true
 
 /* education page */
 .edu-logo, .exp-logo {
-  width: 80px;
-  height: 50px;
+  width: 120px;
+  /* height: 50px; */
   object-fit: contain;
   transition: transform 0.2s;
 }
 
 .logo-wrapper {
   background-color: var(--global-bg-color);
-  box-shadow: rgba(0, 0, 0, 0.05) 0px 2px 6px;
+  /* box-shadow: rgba(0, 0, 0, 0.05) 0px 2px 6px; */
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -28,7 +28,7 @@ author_profile: true
   margin-left: 10px;
   min-width: 80px;
   min-height: 50px;
-  border: 1px solid var(--global-border-color);
+  /* border: 1px solid var(--global-border-color); */
   padding: 8px;
   border-radius: 8px;
 }
