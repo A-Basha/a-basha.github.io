@@ -67,7 +67,7 @@ author_profile: true
   font-size: 0.97em;
 }
 
-.exp-thesis ul {
+.exp-list ul {
     padding-left: 25px;
 }
 
@@ -83,34 +83,80 @@ author_profile: true
 <div class="experience-list">
 
     <div class="exp-entry">
-
     <div class="logo-wrapper">
         <img class="exp-logo" src="{{ base_path }}/images/bakerHughes.png" alt="BH Logo">
     </div>
-
     <div class="exp-details">
-        <div class="exp-degree">
-        Digitalization and Pipeline Management
-            <!-- <a href="https://www.bakerhughes.com/" target="_blank" rel="noopener noreferrer">
-            <i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i></a> -->
-        </div>
-
+        <div class="exp-degree"> Digitalization and Pipeline Management </div>
         <div class="exp-univ">
             <a href="https://www.bakerhughes.com/" target="_blank" rel="noopener noreferrer">Baker Hughes</a>
             <div class="exp-loca">&nbsp; – Hamburg, Germany</div>
         </div>
-
-        <div class="meta-text">
-         Feb 2024 – Present
-        </div>
-
+        <div class="meta-text"> Feb 2024 – Present</div>
         <div class="exp-list">
          <ul>
          <li>Developing and implementing automation and software solutions to enhance efficiency and functionality in production processes.</li>
          <li>Collaborated with the team to digitalize business objectives and maintain active piplines, while also conducting training sessions to support the adoption of new digital tools and workflows.</li>
          </ul>
         </div>
+    </div>
 
+    <div class="exp-entry">
+    <div class="logo-wrapper">
+        <img class="exp-logo" src="{{ base_path }}/images/bakerHughes.png" alt="BH Logo">
+    </div>
+    <div class="exp-details">
+        <div class="exp-degree"> Digitalization and Pipeline Management </div>
+        <div class="exp-univ">
+            <a href="https://www.bakerhughes.com/" target="_blank" rel="noopener noreferrer">Baker Hughes</a>
+            <div class="exp-loca">&nbsp; – Hamburg, Germany</div>
+        </div>
+        <div class="meta-text"> Feb 2024 – Present</div>
+        <div class="exp-list">
+         <ul>
+         <li>Developing and implementing automation and software solutions to enhance efficiency and functionality in production processes.</li>
+         <li>Collaborated with the team to digitalize business objectives and maintain active piplines, while also conducting training sessions to support the adoption of new digital tools and workflows.</li>
+         </ul>
+        </div>
+    </div>
+
+    <div class="exp-entry">
+    <div class="logo-wrapper">
+        <img class="exp-logo" src="{{ base_path }}/images/bakerHughes.png" alt="BH Logo">
+    </div>
+    <div class="exp-details">
+        <div class="exp-degree"> Digitalization and Pipeline Management </div>
+        <div class="exp-univ">
+            <a href="https://www.bakerhughes.com/" target="_blank" rel="noopener noreferrer">Baker Hughes</a>
+            <div class="exp-loca">&nbsp; – Hamburg, Germany</div>
+        </div>
+        <div class="meta-text"> Feb 2024 – Present</div>
+        <div class="exp-list">
+         <ul>
+         <li>Developing and implementing automation and software solutions to enhance efficiency and functionality in production processes.</li>
+         <li>Collaborated with the team to digitalize business objectives and maintain active piplines, while also conducting training sessions to support the adoption of new digital tools and workflows.</li>
+         </ul>
+        </div>
+    </div>
+
+
+    <div class="exp-entry">
+    <div class="logo-wrapper">
+        <img class="exp-logo" src="{{ base_path }}/images/bakerHughes.png" alt="BH Logo">
+    </div>
+    <div class="exp-details">
+        <div class="exp-degree"> Digitalization and Pipeline Management </div>
+        <div class="exp-univ">
+            <a href="https://www.bakerhughes.com/" target="_blank" rel="noopener noreferrer">Baker Hughes</a>
+            <div class="exp-loca">&nbsp; – Hamburg, Germany</div>
+        </div>
+        <div class="meta-text"> Feb 2024 – Present</div>
+        <div class="exp-list">
+         <ul>
+         <li>Developing and implementing automation and software solutions to enhance efficiency and functionality in production processes.</li>
+         <li>Collaborated with the team to digitalize business objectives and maintain active piplines, while also conducting training sessions to support the adoption of new digital tools and workflows.</li>
+         </ul>
+        </div>
     </div>
 
 
