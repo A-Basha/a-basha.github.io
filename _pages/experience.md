@@ -62,9 +62,13 @@ author_profile: true
     font-style: normal;
 }
 
-.exp-thesis {
+.exp-list {
   margin-top: 0.3em;
   font-size: 0.97em;
+}
+
+.exp-thesis ul {
+    padding-left: 25px;
 }
 
 .meta-text {
@@ -81,7 +85,7 @@ author_profile: true
     <div class="exp-entry">
 
     <div class="logo-wrapper">
-        <img class="exp-logo" src="{{ bakerHughes.png | prepend: "/images/" | prepend: base_path }}" alt="BH Logo">
+        <img class="exp-logo" src="{{ base_path }}/images/bakerHughes.png" alt="BH Logo">
     </div>
 
     <div class="exp-details">
@@ -100,7 +104,7 @@ author_profile: true
          Feb 2024 – Present
         </div>
 
-        <div class="exp-thesis">
+        <div class="exp-list">
          <ul>
          <li>Developing and implementing automation and software solutions to enhance efficiency and functionality in production processes.</li>
          <li>Collaborated with the team to digitalize business objectives and maintain active piplines, while also conducting training sessions to support the adoption of new digital tools and workflows.</li>
