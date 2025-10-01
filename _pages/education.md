@@ -14,7 +14,7 @@ author_profile: true
 
 .edu-entry {
   display: flex;
-  /* justify-content: space-between; */
+  justify-content: normal;
   align-items: flex-start;
   margin-bottom: 1.5em;
   flex-wrap: wrap;
@@ -41,7 +41,8 @@ author_profile: true
   /* border: 1px solid var(--global-border-color); */
   padding: 8px;
   border-radius: 8px;
-    margin-right: 50px;
+        margin-right: 5%;
+    max-width: 20%;
 }
 
 .edu-details {
