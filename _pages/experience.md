@@ -100,6 +100,7 @@ author_profile: true
          </ul>
         </div>
     </div>
+    </div>
 
     <div class="exp-entry">
     <div class="logo-wrapper">
@@ -118,6 +119,7 @@ author_profile: true
          <li>Collaborated with the team to digitalize business objectives and maintain active piplines, while also conducting training sessions to support the adoption of new digital tools and workflows.</li>
          </ul>
         </div>
+    </div>
     </div>
 
     <div class="exp-entry">
@@ -138,7 +140,7 @@ author_profile: true
          </ul>
         </div>
     </div>
-
+    </div>
 
     <div class="exp-entry">
     <div class="logo-wrapper">
@@ -158,9 +160,8 @@ author_profile: true
          </ul>
         </div>
     </div>
-
-
     </div>
+
 
 
 </div>
