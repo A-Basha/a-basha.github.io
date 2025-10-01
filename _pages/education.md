@@ -11,6 +11,16 @@ author_profile: true
 /* personal style  */
 
 /* education page */
+
+.edu-entry {
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: flex-start;
+  margin-bottom: 1.5em;
+  flex-wrap: wrap;
+}
+
+
 .edu-logo, .exp-logo {
   width: 120px;
   /* height: 50px; */
@@ -31,6 +41,7 @@ author_profile: true
   /* border: 1px solid var(--global-border-color); */
   padding: 8px;
   border-radius: 8px;
+    margin-right: 50px;
 }
 
 .edu-details {
@@ -64,12 +75,13 @@ author_profile: true
   font-size: 0.95em;
 }
 
+
+
 </style>
 
 
 <div class="education-list">
 
-<style> .edu-entry { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5em; flex-wrap: wrap; } .edu-details { max-width: 70%; } .edu-degree { font-weight : bold; font-size : 1.1em; } .edu-univ { margin-top: 0.2em; font-style: italic; } .edu-thesis { margin-top: 0.3em; font-size: 0.97em; }</style>
 
 {% include base_path %}
 {% for ed in site.data.education %}
