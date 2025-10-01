@@ -30,7 +30,6 @@ author_profile: true
 
 .logo-wrapper {
   background-color: var(--global-bg-color);
-  /* box-shadow: rgba(0, 0, 0, 0.05) 0px 2px 6px; */
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -38,10 +37,9 @@ author_profile: true
   margin-left: 10px;
   min-width: 80px;
   min-height: 50px;
-  /* border: 1px solid var(--global-border-color); */
   padding: 8px;
   border-radius: 8px;
-        margin-right: 5%;
+    margin-right: 5%;
     max-width: 20%;
 }
 
@@ -70,7 +68,6 @@ author_profile: true
 }
 
 .meta-text {
-  /* text-align: right; */
   min-width: 170px;
   color: var(--meta-color);
   font-size: 0.95em;
@@ -79,7 +76,7 @@ author_profile: true
 </style>
 
 
-<div class="expcation-list">
+<div class="experience-list">
 
     <div class="exp-entry">
 
