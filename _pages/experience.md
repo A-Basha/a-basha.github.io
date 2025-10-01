@@ -75,34 +75,36 @@ author_profile: true
 
 </style>
 
-
+{% include base_path %}
 <div class="experience-list">
 
     <div class="exp-entry">
 
     <div class="logo-wrapper">
-        <img class="exp-logo" src="###" alt="### Logo">
+        <img class="exp-logo" src="{{ bakerHughes.png | prepend: "/images/" | prepend: base_path }}" alt="BH Logo">
     </div>
 
     <div class="exp-details">
         <div class="exp-degree">
-        ####
-            <a href="###" target="_blank" rel="noopener noreferrer">
-            <i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i></a>
+        Digitalization and Pipeline Management
+            <!-- <a href="https://www.bakerhughes.com/" target="_blank" rel="noopener noreferrer">
+            <i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i></a> -->
         </div>
 
         <div class="exp-univ">
-            <a href="####" target="_blank" rel="noopener noreferrer">#########</a>
-            <div class="exp-loca">&nbsp; – ########</div>
-            ##############
+            <a href="https://www.bakerhughes.com/" target="_blank" rel="noopener noreferrer">Baker Hughes</a>
+            <div class="exp-loca">&nbsp; – Hamburg, Germany</div>
         </div>
 
         <div class="meta-text">
-         ############ – ###########
+         Feb 2024 – Present
         </div>
 
         <div class="exp-thesis">
-        ###############
+         <ul>
+         <li>Developing and implementing automation and software solutions to enhance efficiency and functionality in production processes.</li>
+         <li>Collaborated with the team to digitalize business objectives and maintain active piplines, while also conducting training sessions to support the adoption of new digital tools and workflows.</li>
+         </ul>
         </div>
 
     </div>
