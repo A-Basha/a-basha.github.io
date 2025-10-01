@@ -75,8 +75,6 @@ author_profile: true
   font-size: 0.95em;
 }
 
-
-
 </style>
 
 
@@ -95,7 +93,8 @@ author_profile: true
         <div class="edu-degree">
         {{ ed.degree }}
         {% if ed.diploma_url %}
-            <a href="{{ ed.diploma_url }}" target="_blank" rel="noopener noreferrer">[{{ ed.diploma_label }}]</a>
+            <a href="{{ ed.diploma_url }}" target="_blank" rel="noopener noreferrer">
+            <i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i></a>
         {% endif %}
         </div>
 
