@@ -103,15 +103,15 @@ author_profile: true
 
     <div class="exp-entry">
     <div class="logo-wrapper">
-        <img class="exp-logo" src="{{ base_path }}/images/bakerHughes.png" alt="BH Logo">
+        <img class="exp-logo" src="{{ base_path }}/images/ripevip.png" alt="RIP Logo">
     </div>
     <div class="exp-details">
-        <div class="exp-degree"> Digitalization and Pipeline Management </div>
+        <div class="exp-degree"> Full Stack Web Developer </div>
         <div class="exp-univ">
-            <a href="https://www.bakerhughes.com/" target="_blank" rel="noopener noreferrer">Baker Hughes</a>
-            <div class="exp-loca">&nbsp; – Hamburg, Germany</div>
+            <a href="https://ripe.vip/" target="_blank" rel="noopener noreferrer">Ripe VIP</a>
+            <div class="exp-loca">&nbsp; – Toronto, Canada (Remote)</div>
         </div>
-        <div class="meta-text"> Feb 2024 – Present</div>
+        <div class="meta-text"> Feb 2022 – Jan 2024</div>
         <div class="exp-list">
          <ul>
          <li>Developing and implementing automation and software solutions to enhance efficiency and functionality in production processes.</li>
@@ -122,15 +122,15 @@ author_profile: true
 
     <div class="exp-entry">
     <div class="logo-wrapper">
-        <img class="exp-logo" src="{{ base_path }}/images/bakerHughes.png" alt="BH Logo">
+        <img class="exp-logo" src="{{ base_path }}/images/upwork.png" alt="BH Logo">
     </div>
     <div class="exp-details">
-        <div class="exp-degree"> Digitalization and Pipeline Management </div>
+        <div class="exp-degree"> Web Developer </div>
         <div class="exp-univ">
-            <a href="https://www.bakerhughes.com/" target="_blank" rel="noopener noreferrer">Baker Hughes</a>
-            <div class="exp-loca">&nbsp; – Hamburg, Germany</div>
+            <a href="https://www.upwork.com/" target="_blank" rel="noopener noreferrer">Up-work Inc.</a>
+            <div class="exp-loca">&nbsp; – Top Rated Plus (Remote) </div>
         </div>
-        <div class="meta-text"> Feb 2024 – Present</div>
+        <div class="meta-text"> Feb 2021 – Jan 2022</div>
         <div class="exp-list">
          <ul>
          <li>Developing and implementing automation and software solutions to enhance efficiency and functionality in production processes.</li>
@@ -142,15 +142,15 @@ author_profile: true
 
     <div class="exp-entry">
     <div class="logo-wrapper">
-        <img class="exp-logo" src="{{ base_path }}/images/bakerHughes.png" alt="BH Logo">
+        <img class="exp-logo" src="{{ base_path }}/images/growthchem.jpg" alt="BH Logo">
     </div>
     <div class="exp-details">
-        <div class="exp-degree"> Digitalization and Pipeline Management </div>
+        <div class="exp-degree"> IT Help and Support </div>
         <div class="exp-univ">
-            <a href="https://www.bakerhughes.com/" target="_blank" rel="noopener noreferrer">Baker Hughes</a>
-            <div class="exp-loca">&nbsp; – Hamburg, Germany</div>
+            <a href="https://growthchem-eg.com/en/index.php" target="_blank" rel="noopener noreferrer">Growthchem EG</a>
+            <div class="exp-loca">&nbsp; – Alexandria, Egypt</div>
         </div>
-        <div class="meta-text"> Feb 2024 – Present</div>
+        <div class="meta-text"> Aug 2019 – Jan 2021</div>
         <div class="exp-list">
          <ul>
          <li>Developing and implementing automation and software solutions to enhance efficiency and functionality in production processes.</li>
