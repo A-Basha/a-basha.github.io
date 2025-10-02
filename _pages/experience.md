@@ -95,8 +95,9 @@ author_profile: true
         <div class="meta-text"> Feb 2024 – Present</div>
         <div class="exp-list">
          <ul>
-         <li>Developing and implementing automation and software solutions to enhance efficiency and functionality in production processes.</li>
-         <li>Collaborated with the team to digitalize business objectives and maintain active piplines, while also conducting training sessions to support the adoption of new digital tools and workflows.</li>
+         <li>Designed and implemented automation pipelines using Python, SQL, and Power BI to optimize production workflows and reporting.</li>
+         <li>Developed monitoring tools for real-time data validation and anomaly detection in industrial processes, improving operational efficiency.</li>
+         <li>Conducted training sessions on new digital platforms, fostering adoption of data-driven decision-making tools across teams.</li>
          </ul>
         </div>
     </div>
@@ -115,8 +116,9 @@ author_profile: true
         <div class="meta-text"> Feb 2022 – Jan 2024</div>
         <div class="exp-list">
          <ul>
-         <li>Developing and implementing automation and software solutions to enhance efficiency and functionality in production processes.</li>
-         <li>Collaborated with the team to digitalize business objectives and maintain active piplines, while also conducting training sessions to support the adoption of new digital tools and workflows.</li>
+         <li>Built and maintained responsive web applications using React.js, Node.js, and MongoDB, enhancing customer engagement and scalability.</li>
+         <li>Integrated RESTful APIs and third-party services to improve system interoperability and automate business processes.</li>
+         <li>Led code reviews and collaborated on Git-based workflows, improving team productivity and software quality.</li>
          </ul>
         </div>
     </div>
@@ -129,14 +131,15 @@ author_profile: true
     <div class="exp-details">
         <div class="exp-degree"> Web Developer </div>
         <div class="exp-univ">
-            <a href="https://www.upwork.com/" target="_blank" rel="noopener noreferrer">Up-work Inc.</a>
+            <a href="https://www.upwork.com/freelancers/~019fcd2e0f2353b5bc?mp_source=share" target="_blank" rel="noopener noreferrer">Up-work Inc.</a>
             <div class="exp-loca">&nbsp; – Top Rated Plus (Remote) </div>
         </div>
         <div class="meta-text"> Feb 2021 – Jan 2022</div>
         <div class="exp-list">
          <ul>
-         <li>Developing and implementing automation and software solutions to enhance efficiency and functionality in production processes.</li>
-         <li>Collaborated with the team to digitalize business objectives and maintain active piplines, while also conducting training sessions to support the adoption of new digital tools and workflows.</li>
+         <li>Delivered client-facing web solutions using HTML5, CSS3, JavaScript (ES6), and WordPress, tailored for small businesses and startups.</li>
+         <li>Developed custom dashboards and automation scripts to support e-commerce and SaaS projects.</li>
+         <li>Optimized website performance through SEO best practices and responsive design, resulting in higher client satisfaction.</li>
          </ul>
         </div>
     </div>
@@ -155,8 +158,9 @@ author_profile: true
         <div class="meta-text"> Aug 2019 – Jan 2021</div>
         <div class="exp-list">
          <ul>
-         <li>Developing and implementing automation and software solutions to enhance efficiency and functionality in production processes.</li>
-         <li>Collaborated with the team to digitalize business objectives and maintain active piplines, while also conducting training sessions to support the adoption of new digital tools and workflows.</li>
+         <li>Provided technical support for hardware, software, and network troubleshooting, reducing downtime across business operations.</li>
+         <li>Automated IT tasks with Python scripts and Excel macros, streamlining reporting and inventory management.</li>
+         <li>Assisted in migrating on-premise data to cloud solutions (Office 365, Google Workspace), enabling smoother collaboration.</li>
          </ul>
         </div>
     </div>
