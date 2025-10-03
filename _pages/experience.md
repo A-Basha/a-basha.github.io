@@ -24,7 +24,7 @@ author_profile: true
         <div class="meta-text"> Feb 2024 – Present</div>
         <div class="exp-list">
          <ul>
-         <li>digitalize and implemented automation pipelines using Python, SQL, other programing languages and tools to optimize production workflows and reporting.</li>
+         <li>Digitalize and implemented automation pipelines using Python, SQL, other programing languages and tools to optimize production workflows and reporting.</li>
          <li>Develope monitoring tools for data validation, detect variation in industrial data annd improving operational efficiency.</li>
          <li>Conducted training sessions on new digital tools to encouraging the adoption of new tools across teams.</li>
          </ul>
