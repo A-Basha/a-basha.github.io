@@ -1,8 +1,9 @@
 - id: aws-ml-fund
-  title: "AWS Machine Learning Fundamentals Nanodegree"
+  title: "Cybersecurity - Specialization"
   issuer: "Udacity"
   date: "Oct 2024"
-  desc: "End-to-end ML workflow with AWS SageMaker: data prep, feature engineering, XGBoost/AutoGluon, tuning, deployment, and DL (CV & NLP)."
+  desc: "The Cybersecurity Specialization covers the fundamental concepts of secure systems, from the hardware to
+the software to the human-computer interface, with the use of cryptography to secure interactions."
   logo_light: "/assets/images/logos/coursera.svg"
   logo_dark:  "/assets/images/logos/ucoursera.svg"
   hover_bg:   "/assets/images/certs/Cybersecurity.png"
