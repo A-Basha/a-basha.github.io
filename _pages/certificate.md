@@ -18,7 +18,7 @@ author_profile: true
   <a class="cert-card glightbox"
      href="{{ c.cert_image | prepend: base_path }}"
      data-gallery="certs"
-     data-title="{{ c.title }} — {{ c.issuer }}{% if c.verify_url %}<br><a href='{{ c.verify_url }}' target='_blank' rel='noopener'>Verify</a>{% endif %}"
+     data-title="<a href='{{ c.verify_url }}' target='_blank' rel='noopener'>Verify</a>"
      style="--hover-bg: url('{{ c.hover_bg | prepend: base_path }}')"
      title="Click to view certificate">
 
