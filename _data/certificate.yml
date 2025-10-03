@@ -4,10 +4,10 @@
   date: "Oct 2017"
   desc: "The Cybersecurity Specialization covers the fundamental concepts of secure systems, from the hardware to
 the software to the human-computer interface, with the use of cryptography to secure interactions."
-  logo_light: "/assets/images/logos/coursera.svg"
-  logo_dark:  "/assets/images/logos/ucoursera.svg"
-  hover_bg:   "/assets/images/certs/Cybersecurity.png"
-  cert_image: "/assets/images/certs/Cybersecurity.png"
+  logo_light: "/images/logos/coursera.svg"
+  logo_dark:  "/images/logos/ucoursera.svg"
+  hover_bg:   "/images/certs/Cybersecurity.png"
+  cert_image: "/images/certs/Cybersecurity.png"
   verify_url: "https://coursera.org/verify/specialization/TMQMPLWD2MSS"
 
 - id: ai-prog-python
@@ -15,10 +15,10 @@ the software to the human-computer interface, with the use of cryptography to se
   issuer: "Udacity"
   date: "Feb 2024"
   desc: "NumPy, Pandas, Matplotlib; neural-nets with PyTorch."
-  logo_light: "/assets/images/logos/udacity.svg"
-  logo_dark:  "/assets/images/logos/udacity-dark.svg"
-  hover_bg:   "/assets/images/certs/ai_prog_py.png"
-  cert_image: "/assets/images/certs/ai_prog_py.png"
+  logo_light: "/images/logos/udacity.svg"
+  logo_dark:  "/images/logos/udacity-dark.svg"
+  hover_bg:   "/images/certs/ai_prog_py.png"
+  cert_image: "/images/certs/ai_prog_py.png"
   verify_url: "https://www.udacity.com/certificate/your-code"
 
 - id: hp-life-dsa
@@ -26,10 +26,10 @@ the software to the human-computer interface, with the use of cryptography to se
   issuer: "HP LIFE"
   date: "Oct 2023"
   desc: "Foundations of data analysis, visualization, analytics tools."
-  logo_light: "/assets/images/logos/hp.svg"
-  logo_dark:  "/assets/images/logos/hp.svg"
-  hover_bg:   "/assets/images/certs/hp_dsa.png"
-  cert_image: "/assets/images/certs/hp_dsa.png"
+  logo_light: "/images/logos/hp.svg"
+  logo_dark:  "/images/logos/hp.svg"
+  hover_bg:   "/images/certs/hp_dsa.png"
+  cert_image: "/images/certs/hp_dsa.png"
   verify_url: "https://www.life-global.org/verify/your-code"
 
 - id: nvidia-anomaly
@@ -37,10 +37,10 @@ the software to the human-computer interface, with the use of cryptography to se
   issuer: "NVIDIA DLI"
   date: "Feb 2023"
   desc: "GPU-accelerated XGBoost, autoencoders, GANs for anomalies."
-  logo_light: "/assets/images/logos/nvidia.svg"
-  logo_dark:  "/assets/images/logos/nvidia.svg"
-  hover_bg:   "/assets/images/certs/nvidia_anom.png"
-  cert_image: "/assets/images/certs/nvidia_anom.png"
+  logo_light: "/images/logos/nvidia.svg"
+  logo_dark:  "/images/logos/nvidia.svg"
+  hover_bg:   "/images/certs/nvidia_anom.png"
+  cert_image: "/images/certs/nvidia_anom.png"
   verify_url: "https://courses.nvidia.com/certificates/your-code"
 
 - id: anaconda-ml
@@ -48,10 +48,10 @@ the software to the human-computer interface, with the use of cryptography to se
   issuer: "Anaconda"
   date: "Feb 2023"
   desc: "Supervised learning, model evaluation, scikit-learn."
-  logo_light: "/assets/images/logos/anaconda.svg"
-  logo_dark:  "/assets/images/logos/anaconda-dark.svg"
-  hover_bg:   "/assets/images/certs/anaconda_ml.png"
-  cert_image: "/assets/images/certs/anaconda_ml.png"
+  logo_light: "/images/logos/anaconda.svg"
+  logo_dark:  "/images/logos/anaconda-dark.svg"
+  hover_bg:   "/images/certs/anaconda_ml.png"
+  cert_image: "/images/certs/anaconda_ml.png"
   verify_url: "https://anaconda.com/verify/your-code"
 
 - id: anaconda-py
@@ -59,8 +59,8 @@ the software to the human-computer interface, with the use of cryptography to se
   issuer: "Anaconda"
   date: "Feb 2023"
   desc: "Python basics: variables, loops, functions, file I/O."
-  logo_light: "/assets/images/logos/anaconda.svg"
-  logo_dark:  "/assets/images/logos/anaconda-dark.svg"
-  hover_bg:   "/assets/images/certs/anaconda_py.png"
-  cert_image: "/assets/images/certs/anaconda_py.png"
+  logo_light: "/images/logos/anaconda.svg"
+  logo_dark:  "/images/logos/anaconda-dark.svg"
+  hover_bg:   "/images/certs/anaconda_py.png"
+  cert_image: "/images/certs/anaconda_py.png"
   verify_url: "https://anaconda.com/verify/your-code"
