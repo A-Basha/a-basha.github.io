@@ -24,8 +24,8 @@ author_profile: true
         <div class="meta-text"> Feb 2024 – Present</div>
         <div class="exp-list">
          <ul>
-         <li>Digitalize and implemented automation pipelines using Python, SQL, other programming languages and tools to optimize production workflows and reporting.</li>
-         <li>Develope monitoring tools for data validation, detect variation in industrial data annd improving operational efficiency.</li>
+         <li>Digitalize and implement automation pipelines using Python, SQL, other programming languages and tools to optimize production workflows and reporting.</li>
+         <li>Develop monitoring tools for data validation, detect variation in industrial data, and improve operational efficiency.</li>
          <li>Conducted training sessions on new digital tools to encouraging the adoption of new tools across teams.</li>
          </ul>
         </div>
@@ -37,7 +37,7 @@ author_profile: true
         <img class="exp-logo" src="{{ base_path }}/images/ripevip.png" alt="RIP Logo">
     </div>
     <div class="exp-details">
-        <div class="exp-degree"> Full Stack Web Developer </div>
+        <div class="exp-degree"> Full Stack Developer </div>
         <div class="exp-univ">
             <a href="https://ripe.vip/" target="_blank" rel="noopener noreferrer">Ripe VIP</a>
             <div class="exp-loca">&nbsp; – Toronto, Canada (Remote)</div>
@@ -46,7 +46,7 @@ author_profile: true
         <div class="exp-list">
          <ul>
          <li>Built and maintained responsive web applications using React.js, Node.js, and WordPress, enhancing customer engagement and scalability.</li>
-         <li>Integrated RESTful APIs and third-party services to improve system interoperability and automate business processes.</li>
+         <li>Integrate RESTful APIs and third-party services to improve and automate web applications.</li>
          <li>Code reviews and collaborated on Git-based workflows.</li>
          </ul>
         </div>
@@ -58,7 +58,7 @@ author_profile: true
         <img class="exp-logo" src="{{ base_path }}/images/upwork.png" alt="BH Logo">
     </div>
     <div class="exp-details">
-        <div class="exp-degree"> Web Developer </div>
+        <div class="exp-degree"> Freelance Developer </div>
         <div class="exp-univ">
             <a href="https://www.upwork.com/freelancers/~019fcd2e0f2353b5bc?mp_source=share" target="_blank" rel="noopener noreferrer">Up-work Inc.</a>
             <div class="exp-loca">&nbsp; – Top Rated Plus (Remote) </div>
