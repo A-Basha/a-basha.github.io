@@ -3,11 +3,11 @@
   issuer: "Udacity"
   date: "Oct 2024"
   desc: "End-to-end ML workflow with AWS SageMaker: data prep, feature engineering, XGBoost/AutoGluon, tuning, deployment, and DL (CV & NLP)."
-  logo_light: "/assets/images/logos/udacity.svg"
-  logo_dark:  "/assets/images/logos/udacity-dark.svg"
-  hover_bg:   "/assets/images/certs/ml_fund_nano.png"
-  cert_image: "/assets/images/certs/ml_fund_nano.png"
-  verify_url: "https://www.udacity.com/certificate/your-code"
+  logo_light: "/assets/images/logos/coursera.svg"
+  logo_dark:  "/assets/images/logos/ucoursera.svg"
+  hover_bg:   "/assets/images/certs/Cybersecurity.png"
+  cert_image: "/assets/images/certs/Cybersecurity.png"
+  verify_url: "https://coursera.org/verify/specialization/TMQMPLWD2MSS"
 
 - id: ai-prog-python
   title: "AI Programming with Python Nanodegree"
