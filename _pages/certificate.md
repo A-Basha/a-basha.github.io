@@ -14,7 +14,7 @@ author_profile: true
 </style>
 
 <div class="cert-grid">
-  {% for c in site.data.certifications %}
+  {% for c in site.data.certificate %}
   <a class="cert-card glightbox"
      href="{{ c.cert_image | prepend: base_path }}"
      data-gallery="certs"
