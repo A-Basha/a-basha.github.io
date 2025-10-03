@@ -28,7 +28,6 @@ author_profile: true
     </span>
 
     <img class="cert-logo logo-light" src="{{ c.logo_light | prepend: base_path }}" alt="{{ c.issuer }} logo">
-    <img class="cert-logo logo-dark"  src="{{ c.logo_dark  | prepend: base_path }}" alt="{{ c.issuer }} logo dark">
 
     <div class="cert-title">{{ c.title }}</div>
     <div class="cert-issuer">{{ c.issuer }}</div>
