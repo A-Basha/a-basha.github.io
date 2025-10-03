@@ -1,7 +1,7 @@
-- id: aws-ml-fund
+- id: crsra-cs-spec
   title: "Cybersecurity - Specialization"
-  issuer: "Udacity"
-  date: "Oct 2024"
+  issuer: "Coursera"
+  date: "Oct 2017"
   desc: "The Cybersecurity Specialization covers the fundamental concepts of secure systems, from the hardware to
 the software to the human-computer interface, with the use of cryptography to secure interactions."
   logo_light: "/assets/images/logos/coursera.svg"
