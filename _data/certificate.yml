@@ -24,7 +24,7 @@ the software to the human-computer interface, with the use of cryptography to se
   issuer: "CISCO"
   date: "Oct 2025"
   desc: "Comprehensive understanding of essential networking concepts such as P addressing, binary calculation, and OSI layers, subnetting, VLANs, ethernet, and dynamic routing protocols."
-  logo_light: "/images/logos/cisco-ar21.svg"
+  logo_light: "/images/logos/cisco-ar21-crp.svg"
   hover_bg:   "/images/certs/Google_Cloud_BigData_MachineLearning.png"
   cert_image: "/images/certs/Google_Cloud_BigData_MachineLearning.png"
   verify_url: "https://coursera.org/verify/24TC8PHSES78"
