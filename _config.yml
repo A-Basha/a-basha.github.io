@@ -13,7 +13,7 @@ title                    : "A. M. Basha - Data Scientist"
 title_separator          : "-"
 name                     : &name "Ali Basha"
 description              : &description "personal description"
-url                      : https://a-basha.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://a-basha.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "A-Basha/a-basha.github.io"
 
@@ -29,7 +29,7 @@ author:
   location         : "Hamburg, Germany"
   employer         : "Baker Hughes"
   employer_url     : "https://www.bakerhughes.com"
-  uri              : "https://a-basha.github.io/"
+  uri              : "https://a-basha.github.io"
   email            : "ali.elm.basha@gmail.com" 
   academic_email   : "ali.basha@tuhh.de"
 
