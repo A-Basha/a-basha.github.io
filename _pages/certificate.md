@@ -31,7 +31,7 @@ author_profile: true
 
     <div class="cert-title">{{ c.title }}</div>
     <div class="cert-issuer">{{ c.issuer }}</div>
-    <div class="cert-date">{{ c.date }}</div>
+    <!-- <div class="cert-date">{{ c.date }}</div> -->
     <div class="cert-desc">{{ c.desc }}</div>
   </a>
   {% endfor %}
