@@ -1,13 +1,4 @@
-- id: crsra-cs-spec
-  title: "Cybersecurity - Specialization"
-  issuer: "Coursera"
-  date: "Oct 2017"
-  desc: "The Cybersecurity Specialization covers the fundamental concepts of secure systems, from the hardware to
-the software to the human-computer interface, with the use of cryptography to secure interactions."
-  logo_light: "/images/logos/coursera.svg"
-  hover_bg:   "/images/certs/Cybersecurity.png"
-  cert_image: "/images/certs/Cybersecurity.png"
-  verify_url: "https://coursera.org/verify/specialization/TMQMPLWD2MSS"
+
 
 - id: crsra-gl-BigData-ML
   title: "Google Cloud Big Data and Machine Learning Fundamentals"
@@ -18,17 +9,6 @@ the software to the human-computer interface, with the use of cryptography to se
   hover_bg:   "/images/certs/Google_Cloud_BigData_MachineLearning.png"
   cert_image: "/images/certs/Google_Cloud_BigData_MachineLearning.png"
   verify_url: "https://coursera.org/verify/24TC8PHSES78"
-
-- id: cisco-RN
-  title: "Cisco Certified Network Associate Routing & Switching (200-125 CCNA R&S)"
-  issuer: "CISCO"
-  date: "Oct 2025"
-  desc: "Comprehensive understanding of essential networking concepts such as P addressing, binary calculation, and OSI layers, subnetting, VLANs, ethernet, and dynamic routing protocols."
-  logo_light: "/images/logos/cisco-ar21-crp.svg"
-  hover_bg:   "/images/certs/Google_Cloud_BigData_MachineLearning.png"
-  cert_image: "/images/certs/Google_Cloud_BigData_MachineLearning.png"
-  verify_url: "https://coursera.org/verify/24TC8PHSES78"
-
 
 - id: ibm-MLwP
   title: "Machine Learning with Python"
@@ -68,6 +48,28 @@ the software to the human-computer interface, with the use of cryptography to se
   date: "Oct 2025"
   desc: "Trace the evolution of AI Technologies. From its inception to the revolutionary advances brought by Generative AI, and the role of GPUs."
   logo_light: "/images/logos/nvidia.svg"
+  hover_bg:   "/images/certs/Google_Cloud_BigData_MachineLearning.png"
+  cert_image: "/images/certs/Google_Cloud_BigData_MachineLearning.png"
+  verify_url: "https://coursera.org/verify/24TC8PHSES78"
+
+- id: crsra-cs-spec
+  title: "Cybersecurity - Specialization"
+  issuer: "Coursera"
+  date: "Oct 2017"
+  desc: "The Cybersecurity Specialization covers the fundamental concepts of secure systems, from the hardware to
+the software to the human-computer interface, with the use of cryptography to secure interactions."
+  logo_light: "/images/logos/coursera.svg"
+  hover_bg:   "/images/certs/Cybersecurity.png"
+  cert_image: "/images/certs/Cybersecurity.png"
+  verify_url: "https://coursera.org/verify/specialization/TMQMPLWD2MSS"
+
+
+- id: cisco-RN
+  title: "Cisco Certified Network Associate Routing & Switching (200-125 CCNA R&S)"
+  issuer: "CISCO"
+  date: "Oct 2025"
+  desc: "Comprehensive understanding of essential networking concepts such as P addressing, binary calculation, and OSI layers, subnetting, VLANs, ethernet, and dynamic routing protocols."
+  logo_light: "/images/logos/cisco-ar21-crp.svg"
   hover_bg:   "/images/certs/Google_Cloud_BigData_MachineLearning.png"
   cert_image: "/images/certs/Google_Cloud_BigData_MachineLearning.png"
   verify_url: "https://coursera.org/verify/24TC8PHSES78"
